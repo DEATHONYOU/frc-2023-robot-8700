@@ -26,9 +26,10 @@ import edu.wpi.first.wpilibj.ADIS16470_IMU;
 import edu.wpi.first.wpilibj.ADIS16470_IMU.IMUAxis;
 import com.revrobotics.RelativeEncoder;
 
-camera { import edu.wpi.first.cscore.MjpegServer;
-import org.opencv.imgproc.Imgproc;
-import edu.wpi.first.cscore.VideoMode.PixelFormat;
-import edu.wpi.first.cameraserver.CameraServer;
-import edu.wpi.first.cscore.UsbCamera;
-import edu.wpi.first.cscore.VideoSink;}
+camera    
+    { import edu.wpi.first.cscore.MjpegServer;
+    import org.opencv.imgproc.Imgproc;
+    import edu.wpi.first.cscore.VideoMode.PixelFormat;
+    import edu.wpi.first.cameraserver.CameraServer;
+    import edu.wpi.first.cscore.UsbCamera;
+    import edu.wpi.first.cscore.VideoSink;}
